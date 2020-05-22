@@ -1,0 +1,7 @@
+E:\программирование\GZipTestApplication\GZipTestApplication\GZipTestApplication\bin\Debug\GZipTestApplication.exe.config
+E:\программирование\GZipTestApplication\GZipTestApplication\GZipTestApplication\bin\Debug\GZipTestApplication.exe
+E:\программирование\GZipTestApplication\GZipTestApplication\GZipTestApplication\bin\Debug\GZipTestApplication.pdb
+E:\программирование\GZipTestApplication\GZipTestApplication\GZipTestApplication\obj\Debug\GZipTestApplication.csproj.CoreCompileInputs.cache
+E:\программирование\GZipTestApplication\GZipTestApplication\GZipTestApplication\obj\Debug\GZipTestApplication.exe
+E:\программирование\GZipTestApplication\GZipTestApplication\GZipTestApplication\obj\Debug\GZipTestApplication.pdb
+E:\программирование\GZipTestApplication\GZipTestApplication\GZipTestApplication\obj\Debug\GZipTestApplication.csprojAssemblyReference.cache
